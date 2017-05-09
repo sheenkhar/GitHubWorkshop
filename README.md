@@ -1,3 +1,3 @@
 # GitHubWorkshophahahalame
 
-* "Some awesome message"
+* Some awesome message
