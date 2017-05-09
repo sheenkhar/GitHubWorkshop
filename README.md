@@ -1,3 +1,3 @@
-# GitHubWorkshophahahalame
+# GitHubWorkshop
 
 * Some awesome message
